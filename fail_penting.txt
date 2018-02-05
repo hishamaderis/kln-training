@@ -2,3 +2,8 @@ maklumat penting
 yelaa tu :)
 kalau dah izan punya file.. mestilah penting nad... :D 
 poyo....
+$link = new mysqli_connect(Select * from ini semua poyo)
+mysql_rows_num < 0 
+if $izan === $serius_sangat
+ echo "Rilek bro" esok duduk depan...
+ endif
